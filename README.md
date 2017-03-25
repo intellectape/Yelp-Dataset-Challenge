@@ -13,20 +13,6 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
     
     "name":"business name",
     
-    "neighborhood":"hood name",
-    
-    "address":"full address",
-    
-    "city":"city",
-    
-    "state":"state -- if applicable --",
-    
-    "postal code":"postal code",
-    
-    "latitude":latitude,
-    
-    "longitude":longitude,
-    
     "stars":star rating, rounded to half-stars,
     
     "review_count":number of reviews,
@@ -36,8 +22,6 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
     "attributes":["an array of strings: each array element is an attribute"],
     
     "categories":["an array of strings of business categories"],
-    
-    "hours":["an array of strings of business hours"],
     
     "type": "business"
 }
@@ -53,8 +37,6 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
     "business_id":"encrypted business id",
     
     "stars":star rating, rounded to half-stars,
-    
-    "date":"date formatted like 2009-12-19",
     
     "text":"review text",
     
@@ -78,43 +60,7 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
     
     "review_count":number of reviews,
     
-    "yelping_since": date formatted like "2009-12-19",
-    
-    "friends":["an array of encrypted ids of friends"],
-    
-    "useful":"number of useful votes sent by the user",
-    
-    "funny":"number of funny votes sent by the user",
-    
-    "cool":"number of cool votes sent by the user",
-    
-    "fans":"number of fans the user has",
-    
-    "elite":["an array of years the user was elite"],
-    
     "average_stars":floating point average like 4.31,
-    
-    "compliment_hot":number of hot compliments received by the user,
-    
-    "compliment_more":number of more compliments received by the user,
-    
-    "compliment_profile": number of profile compliments received by the user,
-    
-    "compliment_cute": number of cute compliments received by the user,
-    
-    "compliment_list": number of list compliments received by the user,
-    
-    "compliment_note": number of note compliments received by the user,
-    
-    "compliment_plain": number of plain compliments received by the user,
-    
-    "compliment_cool": number of cool compliments received by the user,
-    
-    "compliment_funny": number of funny compliments received by the user,
-    
-    "compliment_writer": number of writer compliments received by the user,
-    
-    "compliment_photos": number of photo compliments received by the user,
     
     "type":"user"
 }
@@ -138,21 +84,13 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
 
 **Important Attributes in each Dataset related to project**
 
-* Business Dataset
+* Business Dataset: Business ID, Review Count, Open or Close, Stars, Name, 
 
-Business ID, Review Count, Open or Close, Stars, Name, 
+* Review Dataset: User ID, Review ID, Business ID (to get Business Type, Stars, Review count and location), useful, cool.
 
-* Review Dataset
+* User Dataset: User ID, Elite, yelping_since, name, review_count, friends, fan, useful, cool.
 
-User ID, Review ID, Business ID (to get Business Type, Stars, Review count and location), useful, cool.
-
-* User Dataset
-
-User ID, Elite, yelping_since, name, review_count, friends, fan, useful, cool.
-
-* Tip Dataset
-
-Text, likes, business id, user_id, type
+* Tip Dataset: Text, likes, business id, user_id, type
 
 
 **Related Research Paper**
