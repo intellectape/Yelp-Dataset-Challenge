@@ -8,6 +8,7 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
 * yelp_academic_dataset_business.json
 
 {
+
     "business_id":"encrypted business id",
     
     "name":"business name",
@@ -44,6 +45,7 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
 * yelp_academic_dataset_review.json
 
 {
+
     "review_id":"encrypted review id",
     
     "user_id":"encrypted user id",
@@ -69,6 +71,7 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
 * yelp_academic_dataset_user.json
 
 {
+
     "user_id":"encrypted user id",
     
     "name":"first name",
@@ -119,6 +122,7 @@ This project is based on the Yelp Dataset Challenge where we are trying to solve
 * yelp_academic_dataset_tip.json
 
 {
+
     "text":"text of the tip",
     
     "date":"date formatted like 2009-12-19",
@@ -153,11 +157,11 @@ Text, likes, business id, user_id, type
 
 **Related Research Paper**
 
-https://pdfs.semanticscholar.org/8b2b/ada22181916196116f1711d456ea212f2b3b.pdf
+* https://pdfs.semanticscholar.org/8b2b/ada22181916196116f1711d456ea212f2b3b.pdf
 
-https://link.springer.com/chapter/10.1007/978-3-319-08786-3_6
+* https://link.springer.com/chapter/10.1007/978-3-319-08786-3_6
 
-http://www.aclweb.org/anthology/P/P13/P13-2.pdf#page=547
+* http://www.aclweb.org/anthology/P/P13/P13-2.pdf#page=547
 
 * Important papers: http://dl.acm.org/citation.cfm?id=2631784
 * Important papers: http://ltrc.iiit.ac.in/icon2015/icon2015_proceedings/PDF/54_rp.pdf
