@@ -16,7 +16,6 @@ aguardiente
 aiguillette
 aïoli
 aitch bone
-ajwain
 Alaska strawberries
 albariño
 alcopop
@@ -52,7 +51,6 @@ antipasto
 Anya
 ANZAC biscuit
 aperitif
-apple
 applejack
 apple-John
 apple pie
@@ -90,7 +88,6 @@ bagna cauda
 bags of mystery
 baguette
 Bailey’s
-bake
 baked Alaska
 baked beans
 Bakewell tart
@@ -102,7 +99,6 @@ baloney
 balsamic vinegar
 balti
 bamboo shoot
-banana
 bananas Foster
 banana split
 Banbury cake
@@ -116,7 +112,6 @@ Barbados cherry
 barbecue sauce
 barberry
 barigoule
-bark
 barley
 barley grass
 barley sugar
@@ -128,11 +123,9 @@ barm cake
 Barnsley chop
 baron of beef
 Bartlett
-basil
 basmati rice
 bastilla
 batavia
-batch
 Bath bun
 Bath chap
 Bath Oliver
@@ -141,7 +134,6 @@ battenberg
 batter
 bavarois
 bavette
-bay
 bean
 bean sprouts
 béarnaise
@@ -191,7 +183,6 @@ bird’s eye chilli
 bird's nest soup
 biriani
 biscuit
-bishop
 bishop’s weed
 Bismarck herring
 bisque
@@ -460,7 +451,6 @@ charcuterie
 chard
 chardonnay
 Charentais
-charlotte
 char siu
 chartreuse
 chasseur
@@ -555,10 +545,6 @@ club cheese
 club sandwich
 club soda
 cob
-cobbler1
-cobbler2
-cobbler3
-Cobb salad
 cobnut
 Coburg
 Coca-Cola
@@ -791,8 +777,6 @@ eggy bread
 Egremont russet
 einkorn
 eiswein
-elder1
-elder2
 émincé
 Emmental
 emmer
@@ -807,12 +791,10 @@ escalope
 escarole
 espresso
 espuma
-Est! Est!! Est!!!
 Eton mess
 evaporated milk
 Eve’s pudding
 Explorateur
-faggot
 fairy cake
 fairy floss
 fajitas
@@ -857,7 +839,6 @@ fishcake
 fish finger
 fish maw
 five-spice
-fizz
 flageolet
 flan
 flank
@@ -872,13 +853,11 @@ florentine
 flour
 Fluffernutter
 flummery
-foam
 focaccia
 foie gras
 fondant
 fondue
 fontina
-fool
 foo yong
 forcemeat
 formity
@@ -1072,14 +1051,12 @@ hedgehog
 hedgerow jam
 herb
 herb bennet
-hero
 highball
 hindle wakes
 hing
 hoagie
 hobo steak
 hock1
-hock2
 hoecake
 ho fun
 hoisin sauce
@@ -1093,7 +1070,6 @@ honey
 honeycomb
 honeydew melon
 hooch
-hop
 hopper
 hopping John
 horchata
@@ -1136,7 +1112,6 @@ Irish coffee
 Irish moss
 Irish stew
 Irn-Bru
-it
 jabugo ham
 Jack cheese
 jacket
@@ -1158,7 +1133,6 @@ Jarlsberg
 jasmine rice
 jeera
 jelly
-jerk
 Jersey cabbage
 Jersey Royal
 Jerusalem artichoke
@@ -1199,7 +1173,6 @@ keema
 kefalotyri
 keftedes
 Kendal mint cake
-ketchup
 Key lime pie
 khorasan
 kibbeh
@@ -1279,7 +1252,6 @@ lentil
 lettuce
 liberty cabbage
 Liebfraumilch
-lights
 Lillet
 lima bean
 Limburger
@@ -1297,7 +1269,6 @@ Little Gem
 Livarot
 liver sausage
 loaf
-lobby
 lobscouse
 lockshen
 loganberry
@@ -1393,8 +1364,6 @@ matzo ball
 mauby
 mayonnaise
 mead
-meal
-mealie
 meat
 meatloaf
 mebos
@@ -1402,8 +1371,6 @@ medlar
 Melba
 melitzanosalata
 melon
-melt1
-melt2
 melting moment
 membrillo
 merguez
@@ -1771,7 +1738,6 @@ pont-neuf potatoes
 ponzu
 poor boy
 poor knights pudding
-pop
 popcorn
 pope’s eye
 pope’s nose
@@ -1785,7 +1751,6 @@ porcupine
 pork
 pork pie
 porridge
-port
 portable soup
 porter
 porterhouse
@@ -1820,7 +1785,6 @@ prunelle
 pudding
 pudding pie
 puff pastry
-pulled
 pulled bread
 pulque
 pulse
@@ -1841,7 +1805,6 @@ quesadilla
 quiche
 quince
 quinoa
-rack
 raclette
 radicchio
 radish
@@ -1910,10 +1873,8 @@ roasties
 robatayaki
 Robert sauce
 robusta
-rock
 rock cake
 Rockefeller
-rocket
 rock lobster
 rock salmon
 rocky road
@@ -2157,7 +2118,6 @@ souvlaki
 sowens
 soya bean
 spaghetti
-Spam
 spanakopitta
 Spanish omelette
 Spanish rice
@@ -2178,7 +2138,6 @@ sponge toffee
 spoon bread
 spotted dick
 spread
-spring
 spring onion
 spring roll
 sprinkles
@@ -2187,7 +2146,6 @@ sprue
 spud
 spumoni
 squash¹
-squash2
 squashed-fly biscuit
 stamp and go
 star anise
@@ -2289,7 +2247,6 @@ tapénade
 tapioca
 taralluccio
 taramasalata
-target
 tarka dhal
 taro
 tarragon
