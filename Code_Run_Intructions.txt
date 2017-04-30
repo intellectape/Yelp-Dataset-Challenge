@@ -1,0 +1,5 @@
+#For Running Food Extration program From Oxford - 
+python food_extractor.py #This will output file named 'food_items.txt'
+
+#For Running Sentiment Analysis and parsing on Reviews - 
+python rater.py #This will output Json File named 'final_data.txt'
