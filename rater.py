@@ -38,6 +38,7 @@ def check_positivity(text):
 
 
 
+# Reading Data From Files
 dataset = pd.read_csv("./Data/cleanedSC.csv")
 positives = load_wordlist("positive.txt")
 negatives = load_wordlist("negative.txt")
@@ -46,6 +47,7 @@ restaurant_dict = dict()
 
 total_items = dataset["business_id"].__len__()
 
+#Parsing Data and running Sentiment Analysis
 for i in range(0, total_items):
     business_id = dataset["business_id"][i]
     food_name = dataset["field1"][i]
@@ -92,6 +94,7 @@ for i in range(0, total_items):
     restaurant_dict[business_id] = restaurant
     None
 
+#Converting Output to Json
 final_data = jsonpickle.encode(restaurant_dict, unpicklable=False)
 final_file = open("final_data.txt", "w")
 final_file.write(final_data)
